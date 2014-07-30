@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:2529953d8751ea59e03-96478213%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1239453d8f66e0c2400-32829747%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,19 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2529953d8751ea59e03-96478213',
-  'variables' => 
-  array (
-    'new_products' => 0,
-    'newproduct' => 0,
-    'link' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '1239453d8f66e0c2400-32829747',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751ec8c6e4_21154698',
+  'unifunc' => 'content_53d8fa9602dce3_70942275',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751ec8c6e4_21154698')) {function content_53d8751ec8c6e4_21154698($_smarty_tpl) {?><!-- MODULE Block new products -->
+<?php if ($_valid && !is_callable('content_53d8fa9602dce3_70942275')) {function content_53d8fa9602dce3_70942275($_smarty_tpl) {?><!-- MODULE Block new products -->
 <section id="new-products_block_right" class="block products_block column_box">
 	<h4 class="title_block"><span>Novidades</span> <span class="column_icon_toggle"></span></h4>
 	<div class="block_content toggle_content">

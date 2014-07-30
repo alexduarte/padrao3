@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statssales}prestashop>statssales_45c4b3e103155326596d6ccd2fea0f25'] = 'Vendas e compras';
 $_MODULE['<{statssales}prestashop>statssales_d2fb07753354576172a2b144c373a610'] = 'Adiciona gráficos apresentando a evolução das vendas e pedidos ao painel de estatísticas.';
 $_MODULE['<{statssales}prestashop>statssales_6602bbeb2956c035fb4cb5e844a4861b'] = 'Guia';
@@ -25,6 +24,3 @@ $_MODULE['<{statssales}prestashop>statssales_7442e29d7d53e549b78d93c46b8cdcfc'] 
 $_MODULE['<{statssales}prestashop>statssales_b52b44c9d23e141b067d7e83b44bb556'] = 'Produtos';
 $_MODULE['<{statssales}prestashop>statssales_497a2a4cf0a780ff5b60a7a6e43ea533'] = 'Vendas por moeda: %s';
 $_MODULE['<{statssales}prestashop>statssales_17833fb3783b26e0a9bc8b21ee85302a'] = 'Porcentagem de pedidos por status.';
-
-
-return $_MODULE;

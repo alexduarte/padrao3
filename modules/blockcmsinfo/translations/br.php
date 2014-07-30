@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_988659f6c5d3210a3f085ecfecccf5d3'] = 'Bloco de CMS personalizado';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_cd4abd29bdc076fb8fabef674039cd6e'] = 'Adiciona um Bloco de informações personalizado na sua loja.';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_d52eaeff31af37a4a7e0550008aff5df'] = 'Ocorreu um erro durante a gravação';
@@ -15,6 +14,3 @@ $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_6fcdef6ca2bb47a0cf61cd41ccf274f
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_56425383198d22fc8bb296bcca26cecf'] = 'Bloco de texto';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_ccf107a5d46c6501c9f2f4345400dc2e'] = 'ID da loja';
 $_MODULE['<{blockcmsinfo}prestashop>blockcmsinfo_ef61fb324d729c341ea8ab9901e23566'] = 'Adicionar novo';
-
-
-return $_MODULE;

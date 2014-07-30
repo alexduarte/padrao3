@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:31:24
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 11:43:07
          compiled from "C:\wamp\www\padrao3\themes\theme593\modules\blocklanguages\blocklanguages.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1596653d8751c05e262-12077256%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1417753d8f66bd7c109-64784803%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1596653d8751c05e262-12077256',
+  'nocache_hash' => '1417753d8f66bd7c109-64784803',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751c252338_43214130',
+  'unifunc' => 'content_53d8f66c00aa80_90139044',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751c252338_43214130')) {function content_53d8751c252338_43214130($_smarty_tpl) {?><!-- Block languages module -->
+<?php if ($_valid && !is_callable('content_53d8f66c00aa80_90139044')) {function content_53d8f66c00aa80_90139044($_smarty_tpl) {?><!-- Block languages module -->
 <?php if (count($_smarty_tpl->tpl_vars['languages']->value)>1){?>
 <section id="languages_block_top" class="header-box">
 	<div id="countries_2">

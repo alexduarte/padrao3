@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{bankwire}prestashop>bankwire_05adcee99142c1a60fb38bb1330bbbc1'] = 'Transferência bancária';
 $_MODULE['<{bankwire}prestashop>bankwire_a246a8e9907530c4c36b8b4c37bbc823'] = 'Aceite pagamentos para seus produtos por Depósito ou Transferência Bancária';
 $_MODULE['<{bankwire}prestashop>bankwire_cbe0a99684b145e77f3e14174ac212e3'] = 'Você tem certeza que deseja apagar estes dados?';
@@ -30,12 +29,14 @@ $_MODULE['<{bankwire}prestashop>payment_execution_b28be4c423d93e02081f4e79fe2434
 $_MODULE['<{bankwire}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'Escolha um dos seguintes:';
 $_MODULE['<{bankwire}prestashop>payment_execution_a854d894458d66d92cabf0411c499ef4'] = 'Aceitamos apenas a seguinte moeda a ser realizado por transferência bancária';
 $_MODULE['<{bankwire}prestashop>payment_execution_3dd021316505c0204989f984246c6ff1'] = 'A informação da conta para transferência bancária será apresentada na próxima página.';
-$_MODULE['<{bankwire}prestashop>payment_execution_b939c4940deb5588f47ee8f12c61f11f'] = 'Por favor, confirme seu pedido clicando em \\"Eu confirmo meu pedido\\"';
+$_MODULE['<{bankwire}prestashop>payment_execution_b939c4940deb5588f47ee8f12c61f11f'] = 'Por favor, confirme seu pedido clicando em \"Eu confirmo meu pedido\"';
 $_MODULE['<{bankwire}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Confirmo a minha compra';
 $_MODULE['<{bankwire}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Outros métodos de pagamento';
 $_MODULE['<{bankwire}prestashop>infos_c1be305030739396775edaca9813f77d'] = 'Este módulo permite-lhe aceitar pagamentos por transferências bancárias.';
-$_MODULE['<{bankwire}prestashop>infos_60742d06006fde3043c77e6549d71a99'] = 'Se o cliente escolher esta form de pagamento, o status do pedido será alterado para \\"Aguardando Pagamento\\"';
+$_MODULE['<{bankwire}prestashop>infos_60742d06006fde3043c77e6549d71a99'] = 'Se o cliente escolher esta form de pagamento, o status do pedido será alterado para \"Aguardando Pagamento\"';
 $_MODULE['<{bankwire}prestashop>infos_5fb4bbf993c23848433caf58e6b2816d'] = 'Portanto, você deve manualmente confirmar o pedido, logo que receber o pagamento.';
+$_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = 'Pagar por transferência bancária/depósito';
+$_MODULE['<{bankwire}prestashop>payment_4e1fb9f4b46556d64db55d50629ee301'] = '(o processo de pagamento demorará mais)';
 $_MODULE['<{bankwire}prestashop>payment_return_88526efe38fd18179a127024aba8c1d7'] = 'Seu pedido está %s completo.';
 $_MODULE['<{bankwire}prestashop>payment_return_1f8cdc30326f1f930b0c87b25fdac965'] = 'Por favor realize uma depóstio ou transferência bancária com:';
 $_MODULE['<{bankwire}prestashop>payment_return_b2f40690858b404ed10e62bdf422c704'] = 'Valor';
@@ -49,8 +50,3 @@ $_MODULE['<{bankwire}prestashop>payment_return_b9a1cae09e5754424e33764777cfcaa0'
 $_MODULE['<{bankwire}prestashop>payment_return_ca7e41a658753c87973936d7ce2429a8'] = 'Para dirimir quaiquer dúvidas ou para maiores informações por favor contate o';
 $_MODULE['<{bankwire}prestashop>payment_return_dfe239de8c0b2453a8e8f7657a191d5d'] = 'nosso centro de suporte ao cliente';
 $_MODULE['<{bankwire}prestashop>payment_return_d15feee53d81ea16269e54d4784fa123'] = 'Detectamos um problema com a sua compra. Por favor contate o';
-$_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = 'Pagar por transferência bancária/depósito';
-$_MODULE['<{bankwire}prestashop>payment_4e1fb9f4b46556d64db55d50629ee301'] = '(o processo de pagamento demorará mais)';
-
-
-return $_MODULE;

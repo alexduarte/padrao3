@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statsforecast}prestashop>statsforecast_240c994d8b61c7bd68ac1c5182bbdb2e'] = 'Painel de Estatísticas';
 $_MODULE['<{statsforecast}prestashop>statsforecast_b17fbc0dacaf9964df883d8065118b98'] = 'Este é o módulo principal para o Painel de Estatísticas. Ele mostra um resumo de todas as suas estatísticas atuais.';
 $_MODULE['<{statsforecast}prestashop>statsforecast_7a27f506c0104592dcb95c31e650cfed'] = 'As quantidades listadas não incluem impostos.';
@@ -59,6 +58,3 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_8471eed257db7258f935588a664ba
 $_MODULE['<{statsforecast}prestashop>statsforecast_03937134cedab9078be39a77ee3a48a0'] = 'Grupo';
 $_MODULE['<{statsforecast}prestashop>statsforecast_f2bbdf9f72c085adc4d0404e370f0f4c'] = 'Atributo';
 $_MODULE['<{statsforecast}prestashop>statsforecast_9b95278ceb25bd5ddfcd7b22be6e4000'] = 'Quantidade de produtos vendidos';
-
-
-return $_MODULE;

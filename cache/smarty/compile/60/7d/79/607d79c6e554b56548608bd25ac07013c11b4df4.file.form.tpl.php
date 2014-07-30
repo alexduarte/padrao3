@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:31:13
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 11:42:46
          compiled from "C:\wamp\www\padrao3\admin6340\themes\default\template\controllers\performance\helpers\form\form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:187153d87511451940-18127405%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1774053d8f65671f284-97261774%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '187153d87511451940-18127405',
+  'nocache_hash' => '1774053d8f65671f284-97261774',
   'function' => 
   array (
   ),
@@ -77,9 +77,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d87514adacb4_23802953',
+  'unifunc' => 'content_53d8f65a375a89_35598356',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d87514adacb4_23802953')) {function content_53d87514adacb4_23802953($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53d8f65a375a89_35598356')) {function content_53d8f65a375a89_35598356($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['fields']->value['title'])){?><h3><?php echo $_smarty_tpl->tpl_vars['fields']->value['title'];?>
 </h3><?php }?>
 
@@ -1076,8 +1076,8 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php $_smarty_tpl->tpl_vars['groups'] = new Smarty_variable($_smarty_tpl->tpl_vars['input']->value['values'], null, 0);?>
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '187153d87511451940-18127405');
-content_53d87513a22ca3_47284078($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1774053d8f65671f284-97261774');
+content_53d8f659195307_69658818($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='shop'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['html'];?>
@@ -1660,9 +1660,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 
 	</script>
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:31:15
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 11:42:49
          compiled from "C:\wamp\www\padrao3\admin6340\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_53d87513a22ca3_47284078')) {function content_53d87513a22ca3_47284078($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53d8f659195307_69658818')) {function content_53d8f659195307_69658818($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)){?>
 <div class="row">

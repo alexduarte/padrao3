@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:1515853d8751e25eb38-45218159%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2908153d8f66d9b7385-37055632%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,19 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1515853d8751e25eb38-45218159',
-  'variables' => 
-  array (
-    'adv_link' => 0,
-    'adv_title' => 0,
-    'image' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '2908153d8f66d9b7385-37055632',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751e2faf76_09713652',
+  'unifunc' => 'content_53d8fa95ed3ce0_08526079',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751e2faf76_09713652')) {function content_53d8751e2faf76_09713652($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53d8fa95ed3ce0_08526079')) {function content_53d8fa95ed3ce0_08526079($_smarty_tpl) {?>
 <!-- MODULE Block advertising -->
 <div class="advertising_block">
 	<a href="http://www.prestashop.com/" title="PrestaShop"><img src="http://localhost:8080/padrao3/modules/blockadvertising/img/fixtures/advertising.jpg" alt="PrestaShop" title="PrestaShop" width="155"  height="163" /></a>

@@ -2,16 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
-$_MODULE['<{productcomments}prestashop>default_da3e413ae5dde1a6b986203857fb1a59'] = 'A ID do produto está incorreta';
-$_MODULE['<{productcomments}prestashop>default_7b0bf23ae4079e07a3a4cb4d07e2caef'] = 'O título é incorreto';
-$_MODULE['<{productcomments}prestashop>default_ddbd56de5feb78ef1aaf60401f8c472b'] = 'Comentário é incorreto';
-$_MODULE['<{productcomments}prestashop>default_1b1030b6294e9096a7d7c40d83d61872'] = 'Nome do cliente não é correto';
-$_MODULE['<{productcomments}prestashop>default_26510b8eb6e6053f5e91d51171967ca9'] = 'Você precisa estar logado para enviar um comentário';
-$_MODULE['<{productcomments}prestashop>default_a201fbadca94d310a1b62407cdc775d5'] = 'Você tem que dar uma classificação ';
-$_MODULE['<{productcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = 'Produto não encontrado';
-$_MODULE['<{productcomments}prestashop>default_6d10b2f471e8894d59ae18e01537ece5'] = 'Por favor, aguarde antes de escrever outro comentário';
-$_MODULE['<{productcomments}prestashop>default_ba8d7ae5dcadfba739f28a777378f208'] = 'segundos antes de postar um novo comentário.';
 $_MODULE['<{productcomments}prestashop>productcommentcriterion_a09ed6c60eb3213939cecb4c580813cd'] = 'Válida para todo o catálogo';
 $_MODULE['<{productcomments}prestashop>productcommentcriterion_467366059d7d7c743a4d0971363a8d66'] = 'Restritos a algumas categorias';
 $_MODULE['<{productcomments}prestashop>productcommentcriterion_772911becd336c843ab09a1d4b4f66c0'] = 'Restritos a alguns produtos';
@@ -21,6 +11,9 @@ $_MODULE['<{productcomments}prestashop>productcomments-ajax_7fa4a3510dafd0eac643
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_f8694a9aae2eb045920f613cfa7f1235'] = 'Aguardando validação.';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_6bf852d9850445291f5e9d4740ac7b50'] = 'Um comentário de texto é requerido.';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_8aafe254c3e8dceb6425591b322044f2'] = 'Você deve esperar % segundos antes de escrever um comentário de novo.';
+$_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = 'Grade média';
+$_MODULE['<{productcomments}prestashop>productcomments-extra_a71a0229e164fecdcde3c4e0f40473fa'] = 'Leia os comentários do usuário';
+$_MODULE['<{productcomments}prestashop>productcomments-extra_7966126831926ad29c528b239d69f855'] = 'Escreva sua opinião';
 $_MODULE['<{productcomments}prestashop>productcomments_b91c4e8b229a399a3bc911d352524a9b'] = 'Comentários do produto';
 $_MODULE['<{productcomments}prestashop>productcomments_a8cd99c74a32936a90127454a02d7500'] = 'Permitir aos usuários o envio de análises e classificação dos produtos de acordo com critérios definidos.';
 $_MODULE['<{productcomments}prestashop>productcomments_c888438d14855d7d96a2724ee9c306bd'] = 'Configurações atualizadas';
@@ -65,10 +58,6 @@ $_MODULE['<{productcomments}prestashop>productcomments_20089c27bf83463fe32e7d30e
 $_MODULE['<{productcomments}prestashop>productcomments_4d3d769b812b6faa6b76e1a8abaece2d'] = 'Ativo';
 $_MODULE['<{productcomments}prestashop>productcomments_6f7351657f795bc1357a53142b1184cc'] = 'Aprovar';
 $_MODULE['<{productcomments}prestashop>productcomments_ecf74aa77715220b378ec668e75655a8'] = 'Não abusivo';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = 'Grade média';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_a71a0229e164fecdcde3c4e0f40473fa'] = 'Leia os comentários do usuário';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_7966126831926ad29c528b239d69f855'] = 'Escreva sua opinião';
-$_MODULE['<{productcomments}prestashop>productcomments_reviews_e32b7983d3bf98a65e3e96c393867dfa'] = '%s Comentário(s)';
 $_MODULE['<{productcomments}prestashop>productcomments_ab51a81c76d95ddc762194d58ec5db63'] = 'Você tem certeza de que deseja reportar este comentário?';
 $_MODULE['<{productcomments}prestashop>productcomments_9a2ccd41653469a8bd94fbb84b271a14'] = 'Seu comentário foi adicionado com sucesso!';
 $_MODULE['<{productcomments}prestashop>productcomments_b20968d9aecd2d075519992e9e2f1ffe'] = 'O seu comentário foi enviado e estará disponível tão logo seja por um moderador.';
@@ -90,24 +79,17 @@ $_MODULE['<{productcomments}prestashop>productcomments_70397c4b252a5168c5ec00393
 $_MODULE['<{productcomments}prestashop>productcomments_94966d90747b97d1f0f206c98a8b1ac3'] = 'Enviar';
 $_MODULE['<{productcomments}prestashop>productcomments_e81c4e4f2b7b93b481e13a8553c2ae1b'] = 'ou';
 $_MODULE['<{productcomments}prestashop>productcomments_ea4788705e6873b424c65e91c2846b19'] = 'Cancelar';
+$_MODULE['<{productcomments}prestashop>productcomments_reviews_e32b7983d3bf98a65e3e96c393867dfa'] = '%s Comentário(s)';
 $_MODULE['<{productcomments}prestashop>products-comparison_8413c683b4b27cc3f4dbd4c90329d8ba'] = 'Comentários';
 $_MODULE['<{productcomments}prestashop>products-comparison_b1897515d548a960afe49ecf66a29021'] = 'Média';
 $_MODULE['<{productcomments}prestashop>products-comparison_bc976f6c3405523cde61f63a7cbe224b'] = 'Ver comentários';
 $_MODULE['<{productcomments}prestashop>tab_8413c683b4b27cc3f4dbd4c90329d8ba'] = 'Comentários';
-$_MODULE['<{productcomments}prestashop>form_b9aefa40a54680bb258f9f9569290fae'] = 'Nome do produto';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_dda9c06f33071c9b6fc237ee164109d8'] = 'Avaliação';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_899139b5174d8d7a6e38a0360008a695'] = 'Leia os comentários do usuário';
-$_MODULE['<{productcomments}prestashop>productcomments-extra_c31732fda0c6f01c446db7163b214de4'] = 'Escrever uma avaliação';
-$_MODULE['<{productcomments}prestashop>productcomments_reviews_d844ad9202d0de8442498775ba6ef819'] = 'Avaliação(ões)';
-$_MODULE['<{productcomments}prestashop>productcomments_93cba07454f06a4a960172bbd6e2a435'] = 'Sim';
-$_MODULE['<{productcomments}prestashop>productcomments_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Não';
-$_MODULE['<{productcomments}prestashop>productcomments_08621d00a3a801b9159a11b8bbd69f89'] = 'Não há comentários de clientes neste momento.';
-$_MODULE['<{productcomments}prestashop>productcomments_c31732fda0c6f01c446db7163b214de4'] = 'Escrever uma avaliação';
-$_MODULE['<{productcomments}prestashop>productcomments_b78a3223503896721cca1303f776159b'] = 'Titulos';
-$_MODULE['<{productcomments}prestashop>productcomments_0be8406951cdfda82f00f79328cf4efc'] = 'Comentários';
-$_MODULE['<{productcomments}prestashop>productcomments_9ec6e88ba9192880b4d976ac7f9ca59c'] = 'Seu comentário foi adicionado com sucesso e ficará disponível assim que for aprovado pelo moderador.';
-$_MODULE['<{productcomments}prestashop>products-comparison_5d9acecbb0b55a71dea7403896356001'] = 'Ver comentários';
-$_MODULE['<{productcomments}prestashop>tab_34e80a799d144cfe4af46815e103f017'] = 'Comentários';
-
-
-return $_MODULE;
+$_MODULE['<{productcomments}prestashop>default_da3e413ae5dde1a6b986203857fb1a59'] = 'A ID do produto está incorreta';
+$_MODULE['<{productcomments}prestashop>default_7b0bf23ae4079e07a3a4cb4d07e2caef'] = 'O título é incorreto';
+$_MODULE['<{productcomments}prestashop>default_ddbd56de5feb78ef1aaf60401f8c472b'] = 'Comentário é incorreto';
+$_MODULE['<{productcomments}prestashop>default_1b1030b6294e9096a7d7c40d83d61872'] = 'Nome do cliente não é correto';
+$_MODULE['<{productcomments}prestashop>default_26510b8eb6e6053f5e91d51171967ca9'] = 'Você precisa estar logado para enviar um comentário';
+$_MODULE['<{productcomments}prestashop>default_a201fbadca94d310a1b62407cdc775d5'] = 'Você tem que dar uma classificação ';
+$_MODULE['<{productcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = 'Produto não encontrado';
+$_MODULE['<{productcomments}prestashop>default_6d10b2f471e8894d59ae18e01537ece5'] = 'Por favor, aguarde antes de escrever outro comentário';
+$_MODULE['<{productcomments}prestashop>default_ba8d7ae5dcadfba739f28a777378f208'] = 'segundos antes de postar um novo comentário.';

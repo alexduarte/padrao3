@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:31:26
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 11:43:10
          compiled from "C:\wamp\www\padrao3\themes\theme593\modules\blocknewproducts\blocknewproducts.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2529953d8751ea59e03-96478213%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1239453d8f66e0c2400-32829747%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2529953d8751ea59e03-96478213',
+  'nocache_hash' => '1239453d8f66e0c2400-32829747',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751ec3a646_95958153',
+  'unifunc' => 'content_53d8f66e26c085_34356314',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751ec3a646_95958153')) {function content_53d8751ec3a646_95958153($_smarty_tpl) {?><!-- MODULE Block new products -->
+<?php if ($_valid && !is_callable('content_53d8f66e26c085_34356314')) {function content_53d8f66e26c085_34356314($_smarty_tpl) {?><!-- MODULE Block new products -->
 <section id="new-products_block_right" class="block products_block column_box">
 	<h4 class="title_block"><span><?php echo smartyTranslate(array('s'=>'New products','mod'=>'blocknewproducts'),$_smarty_tpl);?>
 </span> <span class="column_icon_toggle"></span></h4>

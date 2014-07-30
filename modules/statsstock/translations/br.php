@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{statsstock}prestashop>statsstock_96ca47f429c269b85e31be9fb17df6d4'] = 'Quantidades disponíveis';
 $_MODULE['<{statsstock}prestashop>statsstock_c49b42f642c62f20a3640f20ca132840'] = 'Avaliação de quantidades disponíveis para venda';
 $_MODULE['<{statsstock}prestashop>statsstock_3adbdb3ac060038aa0e6e6c138ef9873'] = 'Categoria';
@@ -18,6 +17,3 @@ $_MODULE['<{statsstock}prestashop>statsstock_347cbf03d737b02a70a96ff204c22fbc'] 
 $_MODULE['<{statsstock}prestashop>statsstock_844c29394eea07066bb2efefc35784ec'] = 'Preço médio';
 $_MODULE['<{statsstock}prestashop>statsstock_62668f75fc6977f3d09df632d1585d07'] = 'Valor total';
 $_MODULE['<{statsstock}prestashop>statsstock_a9873f90f06f9e2cfa3d048298ecca8c'] = 'Corresponderá ao preço padrão atacadista de acordo com o fornecedor padrão para o produto. Um preço médio é utilizado quando o produto tem atributos.';
-
-
-return $_MODULE;

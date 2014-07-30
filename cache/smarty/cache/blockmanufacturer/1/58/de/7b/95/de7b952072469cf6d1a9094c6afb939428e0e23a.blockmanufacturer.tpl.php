@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:333753d8751f541726-11844785%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1381653d8f66e8b5687-53592895%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,23 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '333753d8751f541726-11844785',
-  'variables' => 
-  array (
-    'display_link_manufacturer' => 0,
-    'manufacturers' => 0,
-    'text_list' => 0,
-    'text_list_nb' => 0,
-    'manufacturer' => 0,
-    'link' => 0,
-    'form_list' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '1381653d8f66e8b5687-53592895',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751f777e93_93752318',
+  'unifunc' => 'content_53d8fa96087a65_07399807',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751f777e93_93752318')) {function content_53d8751f777e93_93752318($_smarty_tpl) {?><!-- Block manufacturers module -->
+<?php if ($_valid && !is_callable('content_53d8fa96087a65_07399807')) {function content_53d8fa96087a65_07399807($_smarty_tpl) {?><!-- Block manufacturers module -->
 <section id="manufacturers_block_left" class="block blockmanufacturer column_box">
 	<h4 class="title_block"><span>Fabricantes</span><span class="column_icon_toggle"></span></h4>
 	<div class="block_content toggle_content">

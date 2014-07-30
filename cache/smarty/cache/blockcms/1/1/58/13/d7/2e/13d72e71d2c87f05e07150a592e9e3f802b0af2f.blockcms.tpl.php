@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:360053d8751ef28770-28022759%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:649153d8f66e333405-00964577%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,27 +9,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '360053d8751ef28770-28022759',
-  'variables' => 
-  array (
-    'block' => 0,
-    'cms_titles' => 0,
-    'cms_title' => 0,
-    'cms_page' => 0,
-    'link' => 0,
-    'PS_CATALOG_MODE' => 0,
-    'display_stores_footer' => 0,
-    'contact_url' => 0,
-    'cmslinks' => 0,
-    'cmslink' => 0,
-    'footer_text' => 0,
-    'display_poweredby' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '649153d8f66e333405-00964577',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751f516793_02019684',
+  'unifunc' => 'content_53d8fa96054de6_13138424',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751f516793_02019684')) {function content_53d8751f516793_02019684($_smarty_tpl) {?>	<!-- Block CMS module -->
+<?php if ($_valid && !is_callable('content_53d8fa96054de6_13138424')) {function content_53d8fa96054de6_13138424($_smarty_tpl) {?>	<!-- Block CMS module -->
 		<!-- /Block CMS module -->
 <?php }} ?>

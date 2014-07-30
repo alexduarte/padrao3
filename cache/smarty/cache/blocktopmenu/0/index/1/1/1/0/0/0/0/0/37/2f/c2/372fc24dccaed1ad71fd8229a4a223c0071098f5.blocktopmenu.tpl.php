@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:2543553d8751c9dffd8-97004752%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:437053d8f66c6ffe81-77578679%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,22 +9,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2543553d8751c9dffd8-97004752',
-  'variables' => 
-  array (
-    'MENU' => 0,
-    'MENU_SEARCH' => 0,
-    'link' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '437053d8f66c6ffe81-77578679',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d8751ca87f91_99649557',
+  'unifunc' => 'content_53d902fdc10182_46071508',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d8751ca87f91_99649557')) {function content_53d8751ca87f91_99649557($_smarty_tpl) {?><div id="menu-wrap">  
+<?php if ($_valid && !is_callable('content_53d902fdc10182_46071508')) {function content_53d902fdc10182_46071508($_smarty_tpl) {?><div id="menu-wrap">  
 	<ul id="menu-custom">
-			<li><a href="http://www.prestashop.com/blog/" onclick="return !window.open(this.href);" title="Blog">Blog</a></li>
-
+			<li><a href="http://localhost:8080/padrao3/19-blusas" title="BLUSAS">BLUSAS</a><ul><li><a href="http://localhost:8080/padrao3/21-feminino" title="FEMININO">FEMININO</a></li><li><a href="http://localhost:8080/padrao3/22-masculino" title="MASCULINO">MASCULINO</a></li><li id="category-thumbnail"></li></ul></li><li><a href="http://localhost:8080/padrao3/20-vestidos" title="VESTIDOS">VESTIDOS</a></li>
 					</ul>
 	</div>
 <?php }} ?>

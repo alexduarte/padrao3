@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{homefeatured}prestashop>homefeatured_5d17bf499a1b9b2e816c99eebf0153a9'] = 'Produtos em destaque na página inicial';
 $_MODULE['<{homefeatured}prestashop>homefeatured_6d37ec35b5b6820f90394e5ee49e8cec'] = 'Mostra produtos em destaque na coluna central da sua página inicial.';
 $_MODULE['<{homefeatured}prestashop>homefeatured_8f31eb2413dea86c661532d4cf973d2f'] = 'Número de produtos inválido';
@@ -19,7 +18,3 @@ $_MODULE['<{homefeatured}prestashop>homefeatured_4351cfebe4b61d8aa5efa1d02071000
 $_MODULE['<{homefeatured}prestashop>homefeatured_2d0f6b8300be19cf35e89e66f0677f95'] = 'Adicionar';
 $_MODULE['<{homefeatured}prestashop>homefeatured_e0e572ae0d8489f8bf969e93d469e89c'] = 'Não há produtos em destaque';
 $_MODULE['<{homefeatured}prestashop>tab_2cc1943d4c0b46bfcf503a75c44f988b'] = 'Popular';
-$_MODULE['<{homefeatured}prestashop>homefeatured_d505d41279039b9a68b0427af27705c6'] = 'Sem produtos em destaque no momento.';
-
-
-return $_MODULE;

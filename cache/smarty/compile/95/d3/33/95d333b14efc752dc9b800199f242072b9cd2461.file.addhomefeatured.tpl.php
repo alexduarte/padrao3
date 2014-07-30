@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 02:31:28
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-30 11:43:11
          compiled from "C:\wamp\www\padrao3\modules\addhomefeatured\addhomefeatured.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1487453d875201889e0-44575015%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1306953d8f66f421887-84660201%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1487453d875201889e0-44575015',
+  'nocache_hash' => '1306953d8f66f421887-84660201',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53d875205e5ea0_25308721',
+  'unifunc' => 'content_53d8f66f8c8f03_11167695',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53d875205e5ea0_25308721')) {function content_53d875205e5ea0_25308721($_smarty_tpl) {?><div class="clearfix"></div>
+<?php if ($_valid && !is_callable('content_53d8f66f8c8f03_11167695')) {function content_53d8f66f8c8f03_11167695($_smarty_tpl) {?><div class="clearfix"></div>
 <!-- MODULE Home Featured Products -->
 <section class="addhomefeatured">
   <h4><span><?php echo smartyTranslate(array('s'=>'Featured products','mod'=>'addhomefeatured'),$_smarty_tpl);?>

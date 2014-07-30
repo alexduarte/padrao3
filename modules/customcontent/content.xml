@@ -5,18 +5,9 @@
     <hook>home</hook>
     <url><![CDATA[index.php?id_product=3&controller=product&id_lang=1#]]></url>
     <html>
-        <lang_1><![CDATA[<h4>Coats and</h4>
-<h3>Jackets</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_1>
-        <lang_4><![CDATA[<h4>Coats and</h4>
-<h3>Jackets</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_4>
-        <lang_5><![CDATA[<h4>Coats and</h4>
-<h3>Jackets</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_5>
+        <lang_1><![CDATA[<h4>Casacos e</h4>
+<h3>Jacketas</h3>
+<span>Comprar agora!</span>]]></lang_1>
     </html>
 
     <imgWidth>370</imgWidth>
@@ -28,15 +19,8 @@
     <hook>home</hook>
     <url><![CDATA[index.php?id_product=5&controller=product&id_lang=1#]]></url>
     <html>
-        <lang_1><![CDATA[<h5>lingerie</h5>
-<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_1>
-        <lang_4><![CDATA[<h5>lingerie</h5>
-<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_4>
-        <lang_5><![CDATA[<h5>lingerie</h5>
-<p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-<span>Shop now!</span>]]></lang_5>
+        <lang_1><![CDATA[<h5>Lingerie</h5>
+<span>Comprar agora!</span>]]></lang_1>
     </html>
 
     <imgWidth>370</imgWidth>

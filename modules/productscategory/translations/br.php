@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{productscategory}prestashop>productscategory_8a4f5a66d0fcc9d13614516db6e3d47a'] = 'Produtos na mesma categoria';
 $_MODULE['<{productscategory}prestashop>productscategory_1d269d7f013c3d9d891a146f4379eb02'] = 'Adiciona um bloco na página de produto que exibe outros produtos da mesma categoria.';
 $_MODULE['<{productscategory}prestashop>productscategory_8dd2f915acf4ec98006d11c9a4b0945b'] = 'Configurações atualizadas com sucesso';
@@ -15,7 +14,3 @@ $_MODULE['<{productscategory}prestashop>productscategory_c9cc8cce247e49bae79f151
 $_MODULE['<{productscategory}prestashop>productscategory_1f910bcf84a92cb7c71fa3d926c8a525'] = 'Outros produtos na mesma categoria';
 $_MODULE['<{productscategory}prestashop>productscategory_dd1f775e443ff3b9a89270713580a51b'] = 'Anterior';
 $_MODULE['<{productscategory}prestashop>productscategory_10ac3d04253ef7e1ddc73e6091c0cd55'] = 'Próximo';
-$_MODULE['<{productscategory}prestashop>productscategory_4aae87211f77aada2c87907121576cfe'] = 'outras opções';
-
-
-return $_MODULE;

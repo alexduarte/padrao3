@@ -2,7 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-
 $_MODULE['<{blockcategories}prestashop>blockcategories_8f0ed7c57fca428f7e3f8e64d2f00918'] = 'Bloco das categorias';
 $_MODULE['<{blockcategories}prestashop>blockcategories_15a6f5841d9e4d7e62bec3319b4b7036'] = 'Adiciona um bloco com categorias de produtos.';
 $_MODULE['<{blockcategories}prestashop>blockcategories_b15e7271053fe9dd22d80db100179085'] = 'Este módulo precisa ser ligado em uma coluna e seu tema não implementa nenhuma.';
@@ -26,10 +25,7 @@ $_MODULE['<{blockcategories}prestashop>blockcategories_e3cf5ac19407b1a62c6fccaff
 $_MODULE['<{blockcategories}prestashop>blockcategories_cf3fb1ff52ea1eed3347ac5401ee7f0c'] = 'Ascendente';
 $_MODULE['<{blockcategories}prestashop>blockcategories_5f73e737cedf8f4ccf880473a7823005'] = 'Número de colunas do rodapé';
 $_MODULE['<{blockcategories}prestashop>blockcategories_c9cc8cce247e49bae79f15173ce97354'] = 'Salvar';
-$_MODULE['<{blockcategories}prestashop>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = 'Categorias';
 $_MODULE['<{blockcategories}prestashop>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = 'Categorias';
+$_MODULE['<{blockcategories}prestashop>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = 'Categorias';
 $_MODULE['<{blockcategories}prestashop>blockcategories_admin_c69d9eead832257f587f7c9ec0026fe2'] = 'Você pode enviar até 3 imagens.';
 $_MODULE['<{blockcategories}prestashop>blockcategories_admin_acc66e14d297c1bfc20986bf593cb054'] = 'Miniaturas';
-
-
-return $_MODULE;
